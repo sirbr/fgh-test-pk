@@ -1,0 +1,19 @@
+{
+  "name": "@sirbr/fgh-test-pk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirbr/fgh-test-pk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirbr/fgh-test-pk/issues"
+  },
+  "homepage": "https://github.com/sirbr/fgh-test-pk#readme"
+}
